@@ -1,19 +1,19 @@
-🎯**Objetivo General.**
+**🎯Objetivo General**
 
 Realizar análisis exploratorio de datos (EDA) sobre viajes de taxis en Chicago y probar la hipótesis de que la duración promedio de viajes desde el Loop al Aeropuerto O’Hare cambia los sábados lluviosos.
 
-🧩**Metodología**
+**🧩Metodología Utilizada**
 
  - Importación y Validación de Datos
  - Análisis Exploratorio de Datos (EDA)
  - Prueba de Hipótesis
 
-☘️**Resultados Esperados**
+**☘️Resultados Esperados**
 
  - EDA : identificación de empresas de taxis y barrios dominantes y patrones visuales de distribución de viajes.
  - Prueba de Hipótesis: evidencia estadística para aceptar/rechazar la hipótesis nula y conclusiones claras sobre el impacto de los sábados lluviosos.
 
-📑**Resultados Obtenidos**
+**📑Resultados Obtenidos**
 
  - Gráficos de barras para clasificaciones de empresas y puntos críticos de abandono por vecindario.
  - Precios dinámicos recomendados durante mal tiempo y asociaciones con las principales compañías de taxis.
